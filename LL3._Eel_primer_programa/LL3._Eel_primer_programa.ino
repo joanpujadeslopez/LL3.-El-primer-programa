@@ -10,7 +10,8 @@
 //s'executa una vegada quan el programa s'inicia
 void setup() {           //obre bloc de codi
   pinMode(13, OUTPUT);   //posa el pin 13 com a sortida
-}                        //tanca bloc de codi
+                         //tanca bloc de codi
+} 
  
 //es repeteix una i altra vegada
 void loop() {               //obre bloc de codi
@@ -21,4 +22,3 @@ void loop() {               //obre bloc de codi
 }
   
 
-}
